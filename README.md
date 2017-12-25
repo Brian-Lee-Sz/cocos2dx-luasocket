@@ -7,3 +7,5 @@ create a socket connect by cocos2dx-lua
 2、包含读写二进制数据方法
 
 3、上传文件到php
+
+4、md5-lua实现
